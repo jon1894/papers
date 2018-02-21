@@ -1,5 +1,5 @@
 # Authors
-Jon Parkinson
+Jon Parkinson UoM
 Dave Pugsy
 
 # Title
