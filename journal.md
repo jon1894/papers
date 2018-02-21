@@ -28,3 +28,6 @@ Cheese was leaving the fridge at a rate of 0.374kg per day, with the crumbs on j
 List of figures:
 1) cheese diagnostic venn diagram
 2) Jeff's butt size vs time
+
+# Acknowledgements
+We'd like to thank Jeff for his idiocy, and sheep for their giant fanged fire breathing mouths. 
