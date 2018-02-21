@@ -20,3 +20,6 @@ We observed and recorded the quantity of cheese in the fridge over 7 days and no
 
 Conclusions
 Jeff is an idiot who eats far too much cheese. 
+
+Results
+Cheese was leaving the fridge at a rate of 0.374kg per day, with the crumbs on jeff's nose implying he was responsible. 
