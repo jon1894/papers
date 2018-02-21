@@ -6,7 +6,7 @@ Dave Pugsy
 A preliminary investigation into Jeff's obsession with cheese and fear of sheep.
 
 # Abstract
-We investigate whether Jeff has been eating all the cheese and it's affect on his butt. The violence of sheep is also considered. 
+We investigate whether Jeff has been eating all the cheese and its effect on his butt. The violence of sheep is also considered. 
 
 # Introduction
 This is an investigation into why Jeff is:
