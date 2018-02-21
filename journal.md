@@ -15,11 +15,16 @@ Of course Alan has already tried to calm down Jeff, but he got all excited as he
 We've also caught Jeff rubbing cheese in places you were don't want your cheese to be rubbed in. 
 We must not talk about Gregg. 
 
-Methodology 
+# Methodology 
 We observed and recorded the quantity of cheese in the fridge over 7 days and noted the differences in volumes.
 
-Conclusions
+# Conclusions
 Jeff is an idiot who eats far too much cheese. 
 
-Results
+# Results
 Cheese was leaving the fridge at a rate of 0.374kg per day, with the crumbs on jeff's nose implying he was responsible. 
+
+# Figures
+List of figures:
+1) cheese diagnostic venn diagram
+2) Jeff's butt size vs time
