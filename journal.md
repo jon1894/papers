@@ -9,4 +9,4 @@ This is an investigation into why Jeff is:
 1) such an idiot
 2) loves cheese
 3) is mortally scared of sheep
-
+Fluffy et al already investigated this idiot but they got confused and left him too it. 
