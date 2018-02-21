@@ -10,3 +10,4 @@ This is an investigation into why Jeff is:
 2) loves cheese
 3) is mortally scared of sheep
 Fluffy et al already investigated this idiot but they got confused and left him too it. 
+Of course Alan has already tried to calm down Jeff, but he got all excited as he had a fridge to sell and completely forgot.
