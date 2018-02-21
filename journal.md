@@ -1,8 +1,9 @@
 # Authors
 Jon Parkinson
+Dave Pugsy
 
 # Title
-Jeff's obsession with all things cheese and fear of sheep.
+A priliminary investigation into Jeff's obsession with cheese and fear of sheep.
 
 # Introduction
 This is an investigation into why Jeff is:
