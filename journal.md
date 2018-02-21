@@ -3,7 +3,7 @@ Jon Parkinson
 Dave Pugsy
 
 # Title
-A priliminary investigation into Jeff's obsession with cheese and fear of sheep.
+A preliminary investigation into Jeff's obsession with cheese and fear of sheep.
 
 # Introduction
 This is an investigation into why Jeff is:
